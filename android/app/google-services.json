@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679595436022",
+    "project_id": "htwg-gamerconnect",
+    "storage_bucket": "htwg-gamerconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679595436022:android:0bd20c480a2dad9410c9d7",
+        "android_client_info": {
+          "package_name": "com.example.gamerconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwF2vXmshBC8tbh8YuDRNJF-8zWxnzC1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
