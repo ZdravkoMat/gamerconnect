@@ -1,6 +1,6 @@
 # GamerConnect
 
-## Abstrake Beschreibung
+## Abstrakte Beschreibung
 
 GamerConnect ist eine innovative App, die es Gamern ermöglicht, sicher und anonym miteinander zu kommunizieren. Die App bietet eine benutzerfreundliche Plattform, auf der Nutzer unbesorgt chatten und sich mit anderen Gamern vernetzen können.
 
