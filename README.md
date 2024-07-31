@@ -56,3 +56,5 @@ Das Ziel von GamerConnect ist es, Gamern eine Möglichkeit zu bieten sich untere
 
 - Teamsfunktion mit Gruppenchats
 - Dark/Light Mode
+
+## APK befindet sich im Ordner apk
